@@ -9,6 +9,6 @@
         }
     ],
     "require": {},
-	"target-dir": ""
+	"target-dir": "htdocs"
 }
 
