@@ -8,6 +8,7 @@
             "email": "jose@o2w.es"
         }
     ],
-    "require": {}
+    "require": {},
+	"target-dir": ""
 }
 
