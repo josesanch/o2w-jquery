@@ -9,6 +9,8 @@
         }
     ],
     "require": {},
-	"target-dir": "htdocs"
+    "config": {
+        "vendor-dir": "htdocs"
+    }
 }
 
