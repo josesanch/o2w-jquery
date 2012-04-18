@@ -1,0 +1,13 @@
+{
+    "name": "josesanch/o2w-jquery",
+    "version": "0.0.1",
+    "description": "Jquery Package.",
+    "authors": [
+        {
+            "name": "José Sánchez Moreno",
+            "email": "jose@o2w.es"
+        }
+    ],
+    "require": {}
+}
+
